@@ -1,3 +1,5 @@
+package beans;
+
 public class MaisonBean {
     public int longueur;
     public int largeur;
