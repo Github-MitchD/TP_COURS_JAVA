@@ -1,3 +1,5 @@
+import beans.MaisonBean;
+
 import java.util.Random;
 
 public class ExoMaisonUtils {
@@ -6,7 +8,7 @@ public class ExoMaisonUtils {
         //-----------------------
         //EXO Maison par Maison
         //-----------------------
-//        MaisonBean m1 = new MaisonBean();
+//        beans.MaisonBean m1 = new beans.MaisonBean();
 //        m1.largeur = 10;
 //        m1.longueur = 20;
 //        m1.couleur = "Bleu";
@@ -14,13 +16,13 @@ public class ExoMaisonUtils {
 //        doubleMaison(m1);
 //        printMaison(m1);
 //
-//        MaisonBean m2 = new MaisonBean();
+//        beans.MaisonBean m2 = new beans.MaisonBean();
 //        m2.largeur = 20;
 //        m2.longueur = 40;
 //        m2.couleur = "Rouge";
 //        printMaison(m2);
 //
-//        MaisonBean max = bigMaison(m1, m2);
+//        beans.MaisonBean max = bigMaison(m1, m2);
 //        printMaison(max);
 
         //-----------------------
